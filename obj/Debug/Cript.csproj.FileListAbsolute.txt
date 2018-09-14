@@ -1,0 +1,6 @@
+c:\users\rafael\documents\visual studio 2015\Projects\Cript\Cript\bin\Debug\Cript.exe.config
+c:\users\rafael\documents\visual studio 2015\Projects\Cript\Cript\bin\Debug\Cript.exe
+c:\users\rafael\documents\visual studio 2015\Projects\Cript\Cript\bin\Debug\Cript.pdb
+c:\users\rafael\documents\visual studio 2015\Projects\Cript\Cript\obj\Debug\Cript.exe
+c:\users\rafael\documents\visual studio 2015\Projects\Cript\Cript\obj\Debug\Cript.pdb
+c:\users\rafael\documents\visual studio 2015\Projects\Cript\Cript\obj\Debug\Cript.csprojResolveAssemblyReference.cache
